@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1613775959361.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "136633641",
+    "id" : "710CBD6A",
+    "lastKnownWriteTime" : 1620772610,
+    "last_content_update" : 1620772610401,
+    "path" : "D:/RLearning/usedcarcomp/carcomptotals.R",
+    "project_path" : "carcomptotals.R",
+    "properties" : {
+        "cursorPosition" : "183,58",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

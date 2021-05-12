@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1620598043515.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3007136075",
+    "id" : "48B1DCA6",
+    "lastKnownWriteTime" : 1613616252,
+    "last_content_update" : 1613616252,
+    "path" : "D:/RLearning/usedcarcomp/autotrader_xb.R",
+    "project_path" : "autotrader_xb.R",
+    "properties" : {
+        "cursorPosition" : "51,59",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

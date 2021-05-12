@@ -1,0 +1,17 @@
+load("D:/RLearning/usedcarcomp/at_xbprice_20210217.Rda")
+load("D:/RLearning/usedcarcomp/cars_xbprice_20210217.Rda")
+load("D:/RLearning/usedcarcomp/tc_xbprice_20210217.Rda")
+load("D:/RLearning/usedcarcomp/at_avalonprice_20210217.Rda")
+load("D:/RLearning/usedcarcomp/cars_avalonprice_20210217.Rda")
+load("D:/RLearning/usedcarcomp/tc_avalonprice_20210217.Rda")
+load("D:/RLearning/usedcarcomp/at_tcprice_20210217.Rda")
+load("D:/RLearning/usedcarcomp/cars_tcprice_20210217.Rda")
+load("D:/RLearning/usedcarcomp/tc_tcprice_20210217.Rda")
+
+xb0217 <- rbind(at_xbprice, cars_xbprice, tc_xbprice)
+avalon0217 <- rbind(at_avalonprice, cars_avalonprice, tc_avalonprice)
+tc0217 <- rbind(at_tcprice, cars_tcprice, tc_tcprice)
+
+save(xb0217, file = "xb021721.Rda")
+save(tc0217, file = "tc021721.Rda")
+save(avalon0217, file = "avalon021721.Rda")

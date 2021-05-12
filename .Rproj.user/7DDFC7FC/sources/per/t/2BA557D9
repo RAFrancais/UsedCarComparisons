@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1620428904368.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3542156402",
+    "id" : "2BA557D9",
+    "lastKnownWriteTime" : 1620772295,
+    "last_content_update" : 1620772295493,
+    "path" : "D:/RLearning/usedcarcomp/regressions.R",
+    "project_path" : "regressions.R",
+    "properties" : {
+        "cursorPosition" : "105,0",
+        "scrollLine" : "70",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
